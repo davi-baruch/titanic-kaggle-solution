@@ -40,8 +40,3 @@ Os dados utilizados neste projeto foram extraídos diretamente do site oficial d
 * **Dataset:** https://www.kaggle.com/c/titanic](https://www.kaggle.com/competitions/titanic/data
 
 ---
-## Arquivos do Repositório
-
-* `titanic.ipynb`: Jupyter Notebook contendo todo o passo a passo documentado do código.
-* `modelo.csv`: Arquivo final gerado com as previsões prontas para submissão no Kaggle.
-* `README.md`: Documentação explicativa do projeto.
